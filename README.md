@@ -22,3 +22,22 @@ Experiments conducted on a multi-GPU system demonstrate substantial improvements
 ## Usage
 
 To use FutureDynamic, initialize it with your preferred configuration:
+
+
+## Benchmarking
+
+To evaluate performance, use the included benchmarking utilities:
+
+
+## Acknowledgments
+
+This work was supported by [Your University/Institution Name]. I would like to thank [Mentor/Colleague Names] for their guidance and support throughout this project.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+
+For questions or collaborations, please contact me at [Your Email Address].
+
